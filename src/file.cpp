@@ -44,4 +44,4 @@ File create_file(std::filesystem::path name) {
   }
 }
 
-};  // namespace exdir
+} // namespace exdir
